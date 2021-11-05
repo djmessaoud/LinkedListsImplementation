@@ -1,0 +1,16 @@
+I:\C#\Practice\Practice\bin\Debug\net5.0\Practice.exe
+I:\C#\Practice\Practice\bin\Debug\net5.0\Practice.deps.json
+I:\C#\Practice\Practice\bin\Debug\net5.0\Practice.runtimeconfig.json
+I:\C#\Practice\Practice\bin\Debug\net5.0\Practice.runtimeconfig.dev.json
+I:\C#\Practice\Practice\bin\Debug\net5.0\Practice.dll
+I:\C#\Practice\Practice\bin\Debug\net5.0\ref\Practice.dll
+I:\C#\Practice\Practice\bin\Debug\net5.0\Practice.pdb
+I:\C#\Practice\Practice\obj\Debug\net5.0\Practice.csprojAssemblyReference.cache
+I:\C#\Practice\Practice\obj\Debug\net5.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+I:\C#\Practice\Practice\obj\Debug\net5.0\Practice.AssemblyInfoInputs.cache
+I:\C#\Practice\Practice\obj\Debug\net5.0\Practice.AssemblyInfo.cs
+I:\C#\Practice\Practice\obj\Debug\net5.0\Practice.csproj.CoreCompileInputs.cache
+I:\C#\Practice\Practice\obj\Debug\net5.0\Practice.dll
+I:\C#\Practice\Practice\obj\Debug\net5.0\ref\Practice.dll
+I:\C#\Practice\Practice\obj\Debug\net5.0\Practice.pdb
+I:\C#\Practice\Practice\obj\Debug\net5.0\Practice.genruntimeconfig.cache
